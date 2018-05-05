@@ -1,3 +1,6 @@
 [submodule "jdauphant.awesome-ansible"]
 	path = jdauphant.awesome-ansible
 	url = https://github.com/jdauphant/awesome-ansible.git
+[submodule "hslatman.awesome-threat-intelligence"]
+	path = hslatman.awesome-threat-intelligence
+	url = https://github.com/hslatman/awesome-threat-intelligence.git
