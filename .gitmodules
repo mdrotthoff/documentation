@@ -1,0 +1,3 @@
+[submodule "jdauphant.awesome-ansible"]
+	path = jdauphant.awesome-ansible
+	url = https://github.com/jdauphant/awesome-ansible.git
