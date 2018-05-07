@@ -7,3 +7,6 @@
 [submodule "enginyoyen.ansible-best-practises"]
 	path = enginyoyen.ansible-best-practises
 	url = https://github.com/enginyoyen/ansible-best-practises.git
+[submodule "networktocode.awesome-network-automation"]
+	path = networktocode.awesome-network-automation
+	url = https://github.com/networktocode/awesome-network-automation.git
