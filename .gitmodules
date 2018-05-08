@@ -10,3 +10,9 @@
 [submodule "networktocode.awesome-network-automation"]
 	path = networktocode.awesome-network-automation
 	url = https://github.com/networktocode/awesome-network-automation.git
+[submodule "radish-bdd.radish-quickstart"]
+	path = radish-bdd.radish-quickstart
+	url = https://github.com/radish-bdd/radish-quickstart
+[submodule "behave.behave.example"]
+	path = behave.behave.example
+	url = https://github.com/behave/behave.example.git
