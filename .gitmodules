@@ -16,3 +16,6 @@
 [submodule "behave.behave.example"]
 	path = behave.behave.example
 	url = https://github.com/behave/behave.example.git
+[submodule "artemmkin.infrastructure-as-code-tutorial"]
+	path = artemmkin.infrastructure-as-code-tutorial
+	url = https://github.com/artemmkin/infrastructure-as-code-tutorial.git
