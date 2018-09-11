@@ -19,3 +19,6 @@
 [submodule "artemmkin.infrastructure-as-code-tutorial"]
 	path = artemmkin.infrastructure-as-code-tutorial
 	url = https://github.com/artemmkin/infrastructure-as-code-tutorial.git
+[submodule "adfinis-sygroup.ansible-guide"]
+	path = adfinis-sygroup.ansible-guide
+	url = https://github.com/adfinis-sygroup/ansible-guide.git
