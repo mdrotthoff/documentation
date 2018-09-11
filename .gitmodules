@@ -22,3 +22,6 @@
 [submodule "adfinis-sygroup.ansible-guide"]
 	path = adfinis-sygroup.ansible-guide
 	url = https://github.com/adfinis-sygroup/ansible-guide.git
+[submodule "ansible.galaxy-docs"]
+	path = ansible.galaxy-docs
+	url = https://github.com/ansible/galaxy-docs.git
