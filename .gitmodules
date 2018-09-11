@@ -25,3 +25,6 @@
 [submodule "ansible.galaxy-docs"]
 	path = ansible.galaxy-docs
 	url = https://github.com/ansible/galaxy-docs.git
+[submodule "ansible.lightbulb"]
+	path = ansible.lightbulb
+	url = https://github.com/ansible/lightbulb.git
